@@ -13,8 +13,8 @@ APM32F103CBT6 based development board wih high-performance ARM® Cortex®-M3 32-
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio/GroundStudio_Magma_Droplet/tree/main/Documentation) -- Datasheets.
-* [/Hardware](https://github.com/GroundStudio/GroundStudio_Magma_Droplet/tree/main/Hardware) -- Schematics, layout.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_Magma_Droplet/tree/main/Documentation) -- Datasheets, Schematic.
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_Magma_Droplet/tree/main/Hardware) -- CAD schematic and layout files.
 
 Versions
 -------------------
