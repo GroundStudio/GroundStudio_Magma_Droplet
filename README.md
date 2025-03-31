@@ -1,26 +1,26 @@
-GroundStudio Magma Splash
+GroundStudio Magma Droplet
 ====================================
-[![sojows2](https://user-images.githubusercontent.com/77836107/183652796-c3d1b3b2-f819-417e-894d-ca20291c3121.png)](https://ardushop.ro/ro/home/2496-placa-de-dezvoltare-magma-splash.html)
+[![image]()](https://ardushop.ro/ro/plci-de-dezvoltare/2424-groundstudio-magma-droplet-6427854034717.html)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/2496-placa-de-dezvoltare-magma-splash.html)
+Get it from [ardushop.ro](https://ardushop.ro/ro/plci-de-dezvoltare/2424-groundstudio-magma-droplet-6427854034717.html)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
 Description
 -------------------
-STM32F411CEU6 based development board wih high-performance ARM® Cortex®-M4 32-bit RISC core operating at a frequency of up to 100 MHz, 512kBytes of Flash memory, 128kBytes SRAM, 24 PWM, 5 SPI, 3 UART, 32 Digital Pins and 10 channel 12 bit ADC Pins.
+APM32F103CBT6 based development board wih high-performance ARM® Cortex®-M3 32-bit RISC core operating at a frequency of up to 96MHz, 128kBytes of Flash memory, 20kBytes SRAM, 21 PWM , 2 SPI, 3 UART, 30 Digital Pins and 10 channel 12 bit ADC Pins.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio/GroundStudio_Magma_Splash/tree/main/Documentation) -- Pinout.
-* [/Hardware](https://github.com/GroundStudio/GroundStudio_Magma_Splash/tree/main/Hardware) -- Schematics, layout.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_Magma_Droplet/tree/main/Documentation) -- Datasheets.
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_Magma_Droplet/tree/main/Hardware) -- Schematics, layout.
 
 Versions
 -------------------
 *(Not all tags shown)*
 
-* [REV0.01]
+* [REV0.4]
 
 License
 -------------------
