@@ -1,6 +1,6 @@
 GroundStudio Magma Droplet
 ====================================
-[![image]()](https://ardushop.ro/ro/plci-de-dezvoltare/2424-groundstudio-magma-droplet-6427854034717.html)
+[![Magma Droplet](https://github.com/user-attachments/assets/405fa4eb-19ae-490b-a52e-9ae2d621269c)](https://ardushop.ro/ro/plci-de-dezvoltare/2424-groundstudio-magma-droplet-6427854034717.html)
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/plci-de-dezvoltare/2424-groundstudio-magma-droplet-6427854034717.html)
 
